@@ -4,7 +4,6 @@ target
 *.log
 *.tsv
 *.lck
-*.png
 *.out
 *.orig
 exp.props
